@@ -1,0 +1,177 @@
+{
+ "schemaVersion": 1,
+ "activeModel": "white-walker-1",
+ "models": [
+  {
+   "id": "white-walker-1",
+   "name": "Biały Wędrowiec — poziom 1: sam",
+   "description": "Poziom 1 (1 sezon). Biały Wędrowiec sam na ośnieżonej podstawie z trzema czerwonymi dyskami ESTES. Jakość źródłowa: geometria i tekstury bez redukcji, pakowane bezstratnie (meshopt i gzip).",
+   "thumbnail": "previews/white-walker-1.png",
+   "triangles": 9534450,
+   "modelScale": 1,
+   "transport": {
+    "encoding": "gzip-parts",
+    "parts": [
+     {
+      "url": "models/white-walker-1-lossless.glb.gz.part01",
+      "bytes": 50331648,
+      "sha256": "387627a7d5182c56e5407b79f6196426d627e946909ad2db1a63306d1945e583"
+     },
+     {
+      "url": "models/white-walker-1-lossless.glb.gz.part02",
+      "bytes": 50331648,
+      "sha256": "c5cba540cd4e50e6f0a157f3acdad5215284bb3923290adc7d6bc3820cb0d2e9"
+     },
+     {
+      "url": "models/white-walker-1-lossless.glb.gz.part03",
+      "bytes": 50331648,
+      "sha256": "0f211cbecbd2cc58172897ec772ab68de634e49e2c05681ab01642e1f932abde"
+     },
+     {
+      "url": "models/white-walker-1-lossless.glb.gz.part04",
+      "bytes": 37203538,
+      "sha256": "05e7dc0c7cf8c9886b8c5c30502246f669bedb30c8842db0ed53474ba4be2490"
+     }
+    ],
+    "compressedBytes": 188198482,
+    "gzipSha256": "c2888061f24b67583348a54dba70f718b78ea6c79da8a13e032595587fbabad4",
+    "decodedBytes": 196978700,
+    "decodedSha256": "7289b0f588d6c336de4a8bf8246c3444c1f6bec8a6ee5d09ee0ea46d98411a88"
+   },
+   "version": "white-walker-level-1-web-v001-lossless",
+   "appearance": "Czeka na akceptację wyglądu."
+  },
+  {
+   "id": "white-walker-2",
+   "name": "Biały Wędrowiec — poziom 2: z plecakiem",
+   "description": "Poziom 2 (3 sezony). Biały Wędrowiec z czarnym plecakiem GRIP EQ na ośnieżonej podstawie z trzema dyskami. Jakość źródłowa: geometria i tekstury bez redukcji, pakowane bezstratnie (meshopt i gzip).",
+   "thumbnail": "previews/white-walker-2.png",
+   "triangles": 11633586,
+   "modelScale": 1,
+   "transport": {
+    "encoding": "gzip-parts",
+    "parts": [
+     {
+      "url": "models/white-walker-2-lossless.glb.gz.part01",
+      "bytes": 50331648,
+      "sha256": "1f046ddba5a999b313c2835c9aaaf0d59f76548c9f435370ccec9027def7c62b"
+     },
+     {
+      "url": "models/white-walker-2-lossless.glb.gz.part02",
+      "bytes": 50331648,
+      "sha256": "9db235bbe2db7e4a3b138013f2557c4d322a237e0f473b5844fb4fb37eebbc5a"
+     },
+     {
+      "url": "models/white-walker-2-lossless.glb.gz.part03",
+      "bytes": 50331648,
+      "sha256": "24ad01bd05df1ddf162738fdcd4b293fe7a9fd81d606b9c26489aa3a98304e5b"
+     },
+     {
+      "url": "models/white-walker-2-lossless.glb.gz.part04",
+      "bytes": 50331648,
+      "sha256": "0923461a7cbda5d6cfa4032fa8f98233ee57410e2cc7462dbbc628f94a2b0540"
+     },
+     {
+      "url": "models/white-walker-2-lossless.glb.gz.part05",
+      "bytes": 34824554,
+      "sha256": "f10a707eebad77ccc9a69eaf2477c1889249d138da9054d9a15e6cb74aa55ded"
+     }
+    ],
+    "compressedBytes": 236151146,
+    "gzipSha256": "263d064e8892b20144aeb1e891527c2b30ce814aca312f688149c83cf6123373",
+    "decodedBytes": 246714028,
+    "decodedSha256": "4eda237da1c6ae927b3e92711b20960067095b101c41f983285a700509c951cf"
+   },
+   "version": "white-walker-level-2-web-v001-lossless",
+   "appearance": "Czeka na akceptację wyglądu."
+  },
+  {
+   "id": "white-walker-3",
+   "name": "Biały Wędrowiec — poziom 3: z ZÜCA",
+   "description": "Poziom 3 (5 sezonów). Biały Wędrowiec z czarnym wózkiem ZÜCA, dyskami i ośnieżoną podstawą. Jakość źródłowa: geometria i tekstury bez redukcji, pakowane bezstratnie (meshopt i gzip).",
+   "thumbnail": "previews/white-walker-3.png",
+   "triangles": 12041034,
+   "modelScale": 1,
+   "transport": {
+    "encoding": "gzip-parts",
+    "parts": [
+     {
+      "url": "models/white-walker-3-lossless.glb.gz.part01",
+      "bytes": 50331648,
+      "sha256": "c61c545eec50cef37cf6e80f2fb0e5f27020af098b218b12b5b21303e43acf18"
+     },
+     {
+      "url": "models/white-walker-3-lossless.glb.gz.part02",
+      "bytes": 50331648,
+      "sha256": "1e26c2ad5c13a665b7847763e78977bae52932553be741aba8485af5e2206e5f"
+     },
+     {
+      "url": "models/white-walker-3-lossless.glb.gz.part03",
+      "bytes": 50331648,
+      "sha256": "aae5cde47ed493e94535bcb8b0e8ffa2886559810f1e153d000b4625f2575f0d"
+     },
+     {
+      "url": "models/white-walker-3-lossless.glb.gz.part04",
+      "bytes": 50331648,
+      "sha256": "1be6fbfd4bae3a2984ec8c0edd2e2d04dd28129e4d94aba32e6d1812dc984585"
+     },
+     {
+      "url": "models/white-walker-3-lossless.glb.gz.part05",
+      "bytes": 36124143,
+      "sha256": "d594d88f5af8c3d93ce1a2987a01b6d7b0593379e24f24d8f6d8248e7bb3bd50"
+     }
+    ],
+    "compressedBytes": 237450735,
+    "gzipSha256": "60b0ab54746ea7be469faeeae8e12b2ee9ec267b7349ad4f704da09877817bd1",
+    "decodedBytes": 248480844,
+    "decodedSha256": "c3b1c861549ef9c68f4cf0e822ca6984501f1bf142b0ebffdc4f8a61a974f133"
+   },
+   "version": "white-walker-level-3-web-v001-lossless",
+   "appearance": "Czeka na akceptację wyglądu."
+  },
+  {
+   "id": "white-walker-4",
+   "name": "Biały Wędrowiec — poziom 4: z ZÜCA i retrieverem",
+   "description": "Poziom 4 (7 sezonów). Biały Wędrowiec z wózkiem ZÜCA i teleskopowym retrieverem w prawej dłoni, z dyskami i ośnieżoną podstawą. Jakość źródłowa: geometria i tekstury bez redukcji, pakowane bezstratnie (meshopt i gzip).",
+   "thumbnail": "previews/white-walker-4.png",
+   "triangles": 12102454,
+   "modelScale": 1,
+   "transport": {
+    "encoding": "gzip-parts",
+    "parts": [
+     {
+      "url": "models/white-walker-4-lossless.glb.gz.part01",
+      "bytes": 50331648,
+      "sha256": "c94e40892a6c7d7bac638ac85703d6238f1d4e464f83ad8d2ba0522a55146113"
+     },
+     {
+      "url": "models/white-walker-4-lossless.glb.gz.part02",
+      "bytes": 50331648,
+      "sha256": "daf3ec2f95a3129b2d3636cfe4b5caecbaa12ad78aa9b61c8cb7f6c280e49a36"
+     },
+     {
+      "url": "models/white-walker-4-lossless.glb.gz.part03",
+      "bytes": 50331648,
+      "sha256": "17d0f3baf3b4375c5e4bc142beef89a99fe49e39fd404544abbd2cfad9d07d05"
+     },
+     {
+      "url": "models/white-walker-4-lossless.glb.gz.part04",
+      "bytes": 50331648,
+      "sha256": "8cf2f3ceca18549dbbba07fe2401689f26931be2838f534d054a5e237e965f4e"
+     },
+     {
+      "url": "models/white-walker-4-lossless.glb.gz.part05",
+      "bytes": 36514177,
+      "sha256": "0b9345a959a0ff02f3decea3bd961eba7dd86831f258bff239ab156bc8a75f9d"
+     }
+    ],
+    "compressedBytes": 237840769,
+    "gzipSha256": "551c7d27a52330de34e9ecc86336f51d67e158318a4cdefa82f24b4bf485be5f",
+    "decodedBytes": 249155008,
+    "decodedSha256": "327f5cf5f121444467f5653e48e029ceb8f350da4eb82c5a9464a2ac918b2623"
+   },
+   "version": "white-walker-level-4-web-v001-lossless",
+   "appearance": "Wygląd web tego poziomu zaakceptowano 6.11.2026 w podglądzie aplikacji (plik pełnej jakości). Tutaj są te same dane w bezstratnym pakowaniu; ta strona czeka na akceptację."
+  }
+ ]
+}
